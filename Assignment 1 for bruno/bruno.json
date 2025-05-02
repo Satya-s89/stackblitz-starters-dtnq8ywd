@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Assignment 1 for bruno",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
